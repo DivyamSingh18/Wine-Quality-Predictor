@@ -18,4 +18,8 @@ The model takes the following inputs:
 >Alcohol <br>
 
 Based on these input values, the model tells whether the wine quality is good or bad.
+<hr>
+This is how the web pag looks (you can also use the above link to test it out) <br>
+![cream-pink gradient with underlined input tags](https://user-images.githubusercontent.com/64833579/132032520-75ba043b-a168-4b88-b910-38f74b213719.jpg)
+
 
