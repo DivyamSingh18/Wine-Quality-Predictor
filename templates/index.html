@@ -17,26 +17,26 @@
         <div class="main">
             <div class="head" > 🍷 Wine Quality Prediction 🍷</div>
            <div class="grid-item" id="item1" >
-            <form action="https://wine-quality-prediction-model.herokuapp.com/prediction" method="POST">
+            <form action="http://127.0.0.1:5000/prediction" method="POST">
                 <b>Citric Acid:</b><br>
-                <input type="text" name="Citric_Acid" id="Citric_Acid" placeholder="Citric Acid"  required  autocomplete="off">
+                <input type="text" name="Citric_Acid" id="Citric_Acid" placeholder="Enter Citric Acid Level"  required  autocomplete="off">
                 <b>Fixed Acidity:</b><br>
-                <input type="text" name="Fixed_Acidity" id="Fixed_Acidity" placeholder="Fixed Acidity" required  autocomplete="off" >
+                <input type="text" name="Fixed_Acidity" id="Fixed_Acidity" placeholder="Enter Fixed Acidity Level " required  autocomplete="off" >
                 <b>Total Sulfur Dioxide:</b><br>
-                <input type="text" name="Total_Sulfur_Dioxide" id="Total_Sulfur_Dioxide" placeholder="Total Sulfur Dioxide"  required  autocomplete="off">
+                <input type="text" name="Total_Sulfur_Dioxide" id="Total_Sulfur_Dioxide" placeholder="Enter Total Sulfur Dioxide Level"  required  autocomplete="off">
                 <b>Volatile Acidity:</b><br>
-                <input type="text" name="Volatile_Acidity" id="Volatile_Acidity" placeholder="Volatile Acidity"  required  autocomplete="off">
+                <input type="text" name="Volatile_Acidity" id="Volatile_Acidity" placeholder="Enter Volatile Acidity Level"  required  autocomplete="off">
               
               
            </div>
 
            <div class="grid-item" id="item2" >
                 <b id="less-marg">Sulphates:</b><br>
-                <input type="text" name="Sulphates" id="Sulphates" placeholder="Sulphates"  required  autocomplete="off">
+                <input type="text" name="Sulphates" id="Sulphates" placeholder="Enter Sulphates Level"  required  autocomplete="off">
                 <b>Alcohol:</b><br>
-                <input type="text" name="Alcohol" id="Alcohol" placeholder="Alcohol"  required  autocomplete="off">
+                <input type="text" name="Alcohol" id="Alcohol" placeholder="Enter Alcohol Level"  required  autocomplete="off">
                 <b>Density:</b><br>
-                <input type="text" name="Density" id="Density" placeholder="Density"  required  autocomplete="off">
+                <input type="text" name="Density" id="Density" placeholder="Enter Density Level"  required  autocomplete="off">
                 
                 <button type="submit" value="Submit">Predict</button> 
                     
