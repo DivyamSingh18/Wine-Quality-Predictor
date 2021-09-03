@@ -9,6 +9,7 @@
   >Sulphates <br>
   >Density <br>
   >Alcohol <br>
+ 
 Based on these input values, the model tells whether the wine quality is good or bad.
 
 <hr>
