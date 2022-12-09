@@ -20,8 +20,9 @@ The Kaggle link for the data-set used in this model is: <br>
 
 - I have also performed feature selection in this model and handled the imbalanced data in data-set.  <br>
 - The Model is deployed at  https://wine-quality-prediction-model.herokuapp.com/ <br>
+- <b>If the link doesnt work or shows error in application it means that I have run out of heroku credits for hosting the web-app.</b><br>
 - This is how the web page looks (you can also use the above link to test it out) <br>
-- If the link doesnt work or shows error in application it means that I have run out of heroku credits for hosting the web-app.
+
 
  ![cream-pink gradient with underlined input tags](https://user-images.githubusercontent.com/64833579/132032520-75ba043b-a168-4b88-b910-38f74b213719.jpg)
 
