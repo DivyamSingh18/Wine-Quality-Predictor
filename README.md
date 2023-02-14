@@ -21,7 +21,6 @@ The Kaggle link for the data-set used in this model is: <br>
 
 - I have also performed feature selection in this model and handled the imbalanced data in data-set.  <br>
 - The Model is deployed at  https://wine-quality-prediction-model.herokuapp.com/ <br>
--
 - This is how the web page looks (you can also use the above link to test it out) <br>
 
 
